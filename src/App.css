@@ -61,3 +61,7 @@ ul {
 .car-paper {
   padding: 50px;
 }
+
+.Button, button {
+  display: none;
+}
